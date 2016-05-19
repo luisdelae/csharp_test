@@ -12,6 +12,7 @@ namespace Csharp_git_test
       {
          Console.WriteLine("Test for pushing to git from Windows 10");
          //Another test to make sure that it is updating correctly and that I can still push to master.
+         //Now testing to makes ure branching works OK.
       }
    }
 }
